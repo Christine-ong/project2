@@ -1,6 +1,9 @@
+// Christine Ong
+// January 28th, 2020
+// 8130957 
+
 #ifndef _BAG_H
 #define _BAG_H
-
 #include <string>
 
 // YOU CAN INCLUDE OTHER HEADER FILES HERE IF NEEDED

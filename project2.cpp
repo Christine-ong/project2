@@ -1,3 +1,6 @@
+// Christine Ong
+// januarty 28th, 2019
+// 8130957
 #include <sys/types.h>
 #include <dirent.h>
 #include <errno.h>

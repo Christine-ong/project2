@@ -1,3 +1,6 @@
+// Christine Ong
+// January 28th, 2019
+// 8130957
 #include "bag.h"
 #include<iostream>
 
