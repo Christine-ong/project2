@@ -50,7 +50,7 @@ void Bag::add_words(string boop) {
 			return;
 		}
 		if (boop < container[i].getWord()){
-			for (int j = count-1; j < i; j--){
+			for (int j = count-1; j >= i; j--){
 				container[j+1]=container[j];
 			}
 			container[i]=boop2;
